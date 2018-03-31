@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.themaxtech.sbkv" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.themaxtech.sbkv" version="1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <author>THEMAXTECH</author>
     <name>SBKV</name>
     <description>
       Welcome to SBKV
-    </description>
-    
+    </description> 
     <feature name="http://api.phonegap.com/1.0/device" /> 
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="cli-6.0.0" />
